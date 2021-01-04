@@ -17,7 +17,7 @@
   },
   "pesy": {
     "azure-project": "pesy/pesy",
-    "github": "pesy/template-cli"
+    "github": "kevinaangstadt/template-cli"
   },
   "buildDirs": {
     "test": {
